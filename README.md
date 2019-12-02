@@ -1,4 +1,4 @@
-#Coffee App
+# Coffee-App
 
 This application is my second application created for IOS using Swift. This challenged me as I have moved from JavaScript to
 a More Object Orientated programming language. Through the creation of this app I have begun to grasp the concepts of OOP
@@ -10,7 +10,7 @@ and have made a working coffee app.
 - Transfer of functions between swift files in order to create a total.
 - Targeted the badge Icon to show a counter which increased with drink purchases. 
 
-##To do
+## To do
 
 - Add support for the removal of drinks from the basket by revealing the buttons when one or more of the same drink is added. 
 - Add a food options tab and have both tabs update individually in relation to the badge on the tab bar. 
